@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<casas>
+    <casa>
+        <nombre>Lannister</nombre>
+        <capital>dfgdfg</capital>
+        <miembros>
+            <miembro>
+                <nombre>srtyert</nombre>
+                <edad>63</edad>
+            </miembro>
+            <miembro>
+                <nombre>srtyert</nombre>
+                <edad>63</edad>
+            </miembro>
+            <miembro>
+                <nombre>srtyert</nombre>
+                <edad>45</edad>
+            </miembro>
+        </miembros>
+    </casa>
+</casas>
