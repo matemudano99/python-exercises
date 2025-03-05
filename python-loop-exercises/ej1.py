@@ -7,4 +7,3 @@ while i<=10:
     resultado=num*i
     print(resultado)
     i=i+1
-
